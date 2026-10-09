@@ -2,7 +2,7 @@
 
 I'm Ilyas, a Senior Software Engineer from Bremen.
 Most of my time goes into iOS apps with Swift and SwiftUI, with distributed backends, DevOps and lately agentic AI engineering on the side.
-For a few years I've also been organising [CocoaHeads Bremen](https://www.meetup.com/cocoaheads-bremen/), a meetup for everyone who builds for Apple platforms.
+For a few years I've also been organising [CocoaHeads Bremen](https://www.eventbrite.com/o/cocoaheads-bremen-57377670733), a meetup for everyone who builds for Apple platforms.
 
 In my spare time I build open source apps for the self-hosted tools I run at home:
 
